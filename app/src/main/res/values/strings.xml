@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Comic Viewer</string>
+
+
+    <string name="share_title">Share this Comic</string>
+    <string name="share_info">"Hey! Check out this XKCD comic: %1$s - %2$s</string>
+
+</resources>
